@@ -7,7 +7,7 @@ A simple hello-world for composer
 [![License](https://poser.pugx.org/silarhi/hello-world/license)](https://packagist.org/packages/silarhi/hello-world)
 
 
-[![SymfonyInsight](https://insight.symfony.com/projects/5d582202-1186-4ce7-82c7-c4d3a2c11807/big.svg)](https://insight.symfony.com/projects/5d582202-1186-4ce7-82c7-c4d3a2c11807)
+
 Installation using Dockerfile
 ------------
 
@@ -33,4 +33,4 @@ Access the Application
 
 Access the application using <ip-address>:8080
 
-![Site Demo]
+![Site Demo](https://github.com/malish-stha/workshopAssessment/blob/main/img.JPG)
