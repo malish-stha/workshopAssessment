@@ -34,3 +34,23 @@ Access the Application
 Access the application using <ip-address>:8080
 
 ![Site Demo](https://github.com/malish-stha/workshopAssessment/blob/main/img.JPG)
+
+Pushing Image to DockerHub
+------------
+
+Build Docker Image
+``` bash
+docker build -t your_username/devops-workshop:latest .
+```
+
+Login to DockerHub
+``` bash
+docker login
+```
+
+Push the Docker Image
+``` bash
+docker push your_username/devops-workshop:latest
+```
+
+![DockerHub]()
