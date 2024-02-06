@@ -53,4 +53,4 @@ Push the Docker Image
 docker push your_username/devops-workshop:latest
 ```
 
-![DockerHub]()
+![DockerHub](https://github.com/malish-stha/workshopAssessment/blob/main/Screenshot%20(724).png)
