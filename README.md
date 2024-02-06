@@ -28,3 +28,9 @@ Build and run Docker Image
 ``` bash
 docker-compose up -d
 ```
+Access the Application
+------------
+
+Access the application using <ip-address>:8080
+
+![Site Demo]
