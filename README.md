@@ -54,3 +54,10 @@ docker push your_username/devops-workshop:latest
 ```
 
 ![DockerHub](https://github.com/malish-stha/workshopAssessment/blob/main/Screenshot%20(724).png)
+
+
+Configure GitHub Actions
+------------
+
+![GitHub Actions](https://github.com/malish-stha/workshopAssessment/blob/main/Screenshot%202024-02-07%20at%2009.01.36.png)
+
