@@ -1,0 +1,14 @@
+name: learn-github-actions
+on: [push]
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: My Step
+        run: echo "Hello World!"
+
+      - name: Print greeting
+        run: |
+          echo "Hello ${{ github.actor }}!"
+          echo "The time is $(date)"
